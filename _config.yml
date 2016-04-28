@@ -1,0 +1,28 @@
+name: brendalloydstudios
+favicon: null
+layout_spectrum: 0.17366519896313548
+typography_spectrum: 0.25982803921215236
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7224633649457246
+  lightness: 0.9871531282551587
+  saturation: 0.5511078790295869
+  rhythmicContrast: 0.6349636281374842
+purpose: []
